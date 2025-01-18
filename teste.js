@@ -1,1 +1,0 @@
-var carro = prompt("escreva um carro")
